@@ -12,7 +12,7 @@ This application contains a program that trained using MNIST dataset to predict 
   
 # Structure:
 Digit Recognition:<br/>
-&nbsp;-evaluateModel.py  ->To evaluate our model.h5.<br/>
+$~$  -evaluateModel.py  ->To evaluate our model.h5.<br/>
 &nbsp;-model.h5          ->Model we created in saveModel.py<br/>
 &nbsp;-saveModel.py      ->Preprocess the data and creates te model<br/>
 &nbsp;-predictGUI.py     ->GUI to predict handwritten digits<br/>
