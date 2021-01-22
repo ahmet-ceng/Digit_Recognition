@@ -12,11 +12,11 @@ This application contains a program that trained using MNIST dataset to predict 
   Each member have contributed to every task, we didn't divided the project between each other because without the subject integritiy it is not possible to complete a task. Also we all live in same place (kötekli) and we didn't have to use any program to communicate from long distances. We meet up and did the assignment together.
   
 # Structure:
-Digit Recognition
-  -evaluateModel.py  -To evaluate our model.h5.
-  -model.h5          -Model we created in saveModel.py
-  -saveModel.py      -Preprocess the data and creates te model
-  -predictGUI.py     -GUI to predict handwritten digits
+Digit Recognition<br/>
+  -evaluateModel.py  -To evaluate our model.h5.<br/>
+  -model.h5          -Model we created in saveModel.py<br/>
+  -saveModel.py      -Preprocess the data and creates te model<br/>
+  -predictGUI.py     -GUI to predict handwritten digits<br/>
 
 Report tex
   -main.tex          -Tex file of the report
