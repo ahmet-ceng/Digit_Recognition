@@ -2,7 +2,7 @@
 Data Mining Final Assignment
 
 # Description:
-This application contains a program that trained using MNIST dataset to predict handwritten digits. There is a GUI for users to draw their own digits using mouse. Program can predict user drawen digits.
+This application contains a program that trained using MNIST dataset to predict handwritten digits. There is a GUI for users to draw their own digits using mouse. Program can predict user drawn digits.
 
 # Team & Roles:
   Team Name : Can't Learn Sklearn<br/>
