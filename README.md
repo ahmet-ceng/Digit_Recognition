@@ -38,6 +38,9 @@ requirement.txt:     ->requirements for program to work
 # IDE:
 Pycharm Community Edition 2020.2.3
 
+# Requirements:
+python -m pip install keras tensorflow Pillow opencv-python
+
 # Additional:
     About the commit history; we don't have a commit history of each member because we didn't share our codes on github. It is unefficient and unnecessary to use github to share our code, if we want to share our code (which we don't need because we live in same place) we can share it on an application called discord while we screen share each other. This is our final work after many hours of arrangements. Thats why there is no commit history.
 
