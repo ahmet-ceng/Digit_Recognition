@@ -6,9 +6,14 @@ This application contains a program that trained using MNIST dataset to predict 
 
 # Team & Roles:
   Team Members: Ahmet Oral - Ceyda Nur Kandemir - Onur Yiğit
+  
   Each member have contributed to every task, we didn't divided the project between each other because without the subject integritiy it is not possible to complete a task. Also we all live in same place (kötekli) and we didn't have to use any program to communicate from long distances.
   
 # Structure:
+  -evaluateModel.py  -To evaluate our model.h5.
+  -model.h5          -Model we created in saveModel.py
+  -saveModel.py      -Preprocess the data and creates te model
+  -predictGUI.py     -GUI to predict handwritten digits
   
 # Language: 
   Python
