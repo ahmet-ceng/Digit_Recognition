@@ -7,7 +7,7 @@ This application contains a program that trained using MNIST dataset to predict 
 # Team & Roles:
   Team Members: Ahmet Oral - Ceyda Nur Kandemir - Onur Yiğit
   
-  Each member have contributed to every task, we didn't divided the project between each other because without the subject integritiy it is not possible to complete a task. Also we all live in same place (kötekli) and we didn't have to use any program to communicate from long distances. We meet up and did the assignment togetger.
+  Each member have contributed to every task, we didn't divided the project between each other because without the subject integritiy it is not possible to complete a task. Also we all live in same place (kötekli) and we didn't have to use any program to communicate from long distances. We meet up and did the assignment together.
   
 # Structure:
 Digit Recognition
@@ -37,4 +37,5 @@ requirement.txt      -requirements for program to work
 Pycharm Community Edition 2020.2.3
 
 # Additional:
-  You don't have to run saveModel.py to create a model because model.h5 is included in repository. Of course if you wish to create the model in you computer you can run saveModel.py and a new model will be created.
+    About the commit history; we don't have a commit history of each member because we didn't share our codes on github. It is unefficient and unnecessary to use github to share our code, if we want to share our code (which we don't need because we live in same place) we can share it on an application called discord while we screen share each other. This is our final work after many hours of arrangements. Thats why there is no commit history.
+
