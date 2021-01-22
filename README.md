@@ -5,6 +5,7 @@ Data Mining Final Assignment
 This application contains a program that trained using MNIST dataset to predict handwritten digits. There is a GUI for users to draw their own digits using mouse. Program can predict user drawen digits.
 
 # Team & Roles:
+  Team Name : Can't Learn Sklearn
   Team Members: Ahmet Oral -180709008, Ceyda Nur Kandemir -170709028, Onur Yiğit -170709008
   
   Each member have contributed to every task, we didn't divided the project between each other because without the subject integritiy it is not possible to complete a task. Also we all live in same place (kötekli) and we didn't have to use any program to communicate from long distances. We meet up and did the assignment together.
