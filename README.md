@@ -12,14 +12,14 @@ This application contains a program that trained using MNIST dataset to predict 
   
 # Structure:
 Digit Recognition:<br/>
-  <pre>-evaluateModel.py  ->To evaluate our model.h5.<br/>
-  <pre>-model.h5          ->Model we created in saveModel.py<br/>
-  <pre>-saveModel.py      ->Preprocess the data and creates te model<br/>
-  <pre>-predictGUI.py     ->GUI to predict handwritten digits<br/>
+&nbsp;-evaluateModel.py  ->To evaluate our model.h5.<br/>
+&nbsp;-model.h5          ->Model we created in saveModel.py<br/>
+&nbsp;-saveModel.py      ->Preprocess the data and creates te model<br/>
+&nbsp;-predictGUI.py     ->GUI to predict handwritten digits<br/>
 
 Report tex:<br/>
-  <pre>-main.tex          ->Tex file of the report<br/>
-  <pre>-png images        ->Images used in report<br/>
+&nbsp;-main.tex          ->Tex file of the report<br/>
+&nbsp;-png images        ->Images used in report<br/>
 
 Report.pdf:          ->pdf of the report<br/>
 
