@@ -29,14 +29,8 @@ requirement.txt:     ->requirements for program to work
 # Usage:
   To use application, simply run predictGUI.py.
   
-# Language: 
-  Python
-
-# Version:
-  Python 3.8
-
-# IDE:
-Pycharm Community Edition 2020.2.3
+# Language, Version, IDE
+  Python 3.8, Pycharm Community Edition 2020.2.3
 
 # Requirements:
 python -m pip install keras tensorflow Pillow opencv-python
