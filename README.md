@@ -14,6 +14,9 @@ This application contains a program that trained using MNIST dataset to predict 
   -model.h5          -Model we created in saveModel.py
   -saveModel.py      -Preprocess the data and creates te model
   -predictGUI.py     -GUI to predict handwritten digits
+ 
+# Usage:
+  To use application, simply run predictGUI.py.
   
 # Language: 
   Python
@@ -25,4 +28,4 @@ This application contains a program that trained using MNIST dataset to predict 
 Pycharm Community Edition 2020.2.3
 
 # Additional:
-  To use application, simply run predictGUI.py. You don't have to run saveModel.py to create a model because model.h5 is included in repository. Of course if you wish to create the model in you computer you can run saveModel.py and a new model will be created.
+  You don't have to run saveModel.py to create a model because model.h5 is included in repository. Of course if you wish to create the model in you computer you can run saveModel.py and a new model will be created.
